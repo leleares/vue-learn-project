@@ -1,5 +1,6 @@
 <template>
   <div class="demo-container">
+    test
     <OwlWordCloud />
   </div>
 </template>
